@@ -2,6 +2,8 @@
    <h1>🚧 Ainda em construção - 1° dia NLW 🚧</h1>
 </div>
 
+---
+
 ## Qual finalidade da Happy ?
 A Happy é uma plataforma para realizar agendamentos de visitas em orfanatos.
 
