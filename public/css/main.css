@@ -1,0 +1,23 @@
+/* 
+  display:
+  regras para fora da caixa: inline, block;
+  regras para dentro da caixa: flex, grid.
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+body {
+  height: 100vh;
+  color: white;
+}
+
+body, input, button, text-area {
+  font: 400 1.8rem/1 'Nunito', 'sans-serif' ;
+}
