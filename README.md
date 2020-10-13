@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>🚧 Ainda em construção - 1° dia NLW 🚧</h1>
+   <h1>🚧 Ainda em construção - 2° dia NLW 🚧</h1>
 </div>
 
 ## Qual finalidade da Happy ?
