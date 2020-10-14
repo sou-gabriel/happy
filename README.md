@@ -2,11 +2,10 @@
 <h1 align="center">
    <img src=".github/logo.svg">
 </h1>
-=======
+
 <div align="center">
    <h1>🚧 Ainda em construção - 2° dia NLW 🚧</h1>
 </div>
->>>>>>> bd7c0099c0d89c0c35fca213e23010b70d4122e7
 
 <p align="center">
    <img src=".github/happy.png">
