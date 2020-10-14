@@ -17,7 +17,7 @@ const icon = L.icon({
   popupAnchor: [170, 2],
 })
 
-L.marker([-27.222633, -49.6455874], { icon }).addTo(map);
+L.marker([-27.222633, -49.6455874], { icon }).addTo(map)
 
 function selectImage(event) {
   const button = event.currentTarget
@@ -32,5 +32,3 @@ function selectImage(event) {
 
   button.classList.add('active')
 }
-
-
