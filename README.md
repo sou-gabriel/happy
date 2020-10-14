@@ -1,11 +1,6 @@
-<<<<<<< HEAD
 <h1 align="center">
    <img src=".github/logo.svg">
 </h1>
-
-<div align="center">
-   <h1>🚧 Ainda em construção - 2° dia NLW 🚧</h1>
-</div>
 
 <p align="center">
    <img src=".github/happy.png">
