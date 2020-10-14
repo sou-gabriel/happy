@@ -1,16 +1,14 @@
-<div align="center">
-   <h1>🚧 Ainda em construção - 2° dia NLW 🚧</h1>
-</div>
+<h1 align="center">
+   <img src="https://ik.imagekit.io/53vofovqwp/logo_OwghISKSV.svg">
+</h1>
 
-## Qual finalidade da Happy ?
-A Happy é uma plataforma para realizar agendamentos de visitas em orfanatos.
+## 📜 Sobre o desenvolvimento
+Esta aplicação foi desenvolvida durante a terceira edição da Next Level Week, proporcionada pela RocketSeat, que ocorreu entre os dias 12 e 16 de outubro do ano de 2020. A trilha seguida foi a Discovery, que teve como instrutor o grande mestre Maykão.   
 
-## Por que foi desenvolvida ?
-Esta aplicação está sendo desenvolvida durante a terceira edição do Next Level Week, proporcionado pela RocketSeat. Tem como objetivo aprimorar e desenvolver meus conhecimentos em todas tecnologias empregadas até então.
+## 📑 Descrição
+Happy é uma aplicação que visa levar felicidade para crianças que vivem nos mais diversos orfanatos espalhados pelo Brasil. Com esta aplicação pessoas dispostas a espalhar alegria ao mundo tem a oportunidade de realizar agendamentos para visitas a estes orfanatos.
 
-## Sobre a aplicação
-Trata-se de uma aplicação responsiva que se adapta à qualquer dispositivo. No entanto, o conceito que está sendo implementado para o desenvolvimento da aplicação é o conceito Mobile First, onde o desenvolvimento inicial é voltado para usuários de smartphones em geral, e, posteriormente a aplicação será desenvolvida em específico para usuários web.
-
-## Tecnologias utilizadas
-- HTML 
+## ⚙️ Tecnologias utilizadas
+- HTML5
 - CSS3
+- JavaScript
