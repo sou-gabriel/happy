@@ -34,7 +34,7 @@ aside footer p {
 }
 
 /* Button */
-a.create-orphanages {
+a.create-orphanage {
   position: absolute;
   right: 4rem;
   bottom: 4rem;
@@ -50,7 +50,7 @@ a.create-orphanages {
   transition: background-color .2s;
 }
 
-a.create-orphanages:hover {
+a.create-orphanage:hover {
   background: #17d6eb;
 }
 

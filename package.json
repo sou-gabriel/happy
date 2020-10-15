@@ -1,0 +1,25 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD\r <h1 align=\"center\">\r    <img src=\".github/logo.svg\">\r </h1>\r =======\r <div align=\"center\">\r    <h1>🚧 Ainda em construção - 2° dia NLW 🚧</h1>\r </div>\r >>>>>>> bd7c0099c0d89c0c35fca213e23010b70d4122e7",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sou-gabriel/happy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sou-gabriel/happy/issues"
+  },
+  "homepage": "https://github.com/sou-gabriel/happy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "nodemon": "^2.0.5"
+  }
+}
