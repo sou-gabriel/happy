@@ -6,7 +6,10 @@ const options = {
   zoomControl: false,
 };
 
-const map = L.map("mapid", options).setView([-27.222633, -49.6455874], 15);
+const latitude = document.querySelector("span[data-lat]").dataset.lat;
+const longitude = document.querySelector("span[data-lng]").dataset.lng;
+
+const map = L.map("mapid", options).setView([latitude, longitude], 15);
 
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png").addTo(map);
 
@@ -15,20 +18,20 @@ const icon = L.icon({
   iconSize: [58, 68],
   iconAnchor: [29, 68],
   popupAnchor: [170, 2],
-})
+});
 
-L.marker([-27.222633, -49.6455874], { icon }).addTo(map)
+L.marker([latitude, longitude], { icon }).addTo(map);
 
 function selectImage(event) {
-  const button = event.currentTarget
+  const button = event.currentTarget;
 
-  const buttons = document.querySelectorAll('.images button')
-  buttons.forEach(button => button.classList.remove('active'))
+  const buttons = document.querySelectorAll(".images button");
+  buttons.forEach((button) => button.classList.remove("active"));
 
-  const image = button.children[0]
-  const imageContainer = document.querySelector('.orphanage-details > img')
+  const image = button.children[0];
+  const imageContainer = document.querySelector(".orphanage-details > img");
 
-  imageContainer.src = image.src
+  imageContainer.src = image.src;
 
-  button.classList.add('active')
+  button.classList.add("active");
 }

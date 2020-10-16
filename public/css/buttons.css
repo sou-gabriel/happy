@@ -9,7 +9,8 @@
   color: white;
   display: flex;
   align-items: center;
-  justify-content: center;  
+  justify-content: center;
+  text-decoration: none;
 }
 
 .primary-button:hover {
